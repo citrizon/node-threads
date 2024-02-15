@@ -1,5 +1,5 @@
 {
-  "name": "threading",
+  "name": "cithread",
   "version": "1.0.0",
   "description": "C#-Style Threading Implementation.",
   "main": "src/package.js",

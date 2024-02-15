@@ -1,0 +1,27 @@
+{
+  "name": "threading",
+  "version": "1.0.0",
+  "description": "C#-Style Threading Implementation.",
+  "main": "src/package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrizon/node-threads.git"
+  },
+  "keywords": [
+    "threading",
+    "node.js",
+    "node",
+    "threads",
+    "thread",
+    "multithreading"
+  ],
+  "author": "Citrizon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citrizon/node-threads/issues"
+  },
+  "homepage": "https://github.com/citrizon/node-threads#readme"
+}
